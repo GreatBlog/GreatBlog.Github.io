@@ -1,14 +1,14 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        四川省成都市大麦克实业发展有限公司
+tagline:      本企业为世界五百强实业，由世界著名企业家大麦克先生创建。企业专注于为人类造福，为未来赋能。创新发展，引领未来！大麦克先生QQ:166 301 5253/350 770 8140
 baseurl:      ""
 paginate:     1
 locale:       "en"
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       四川省成都市大麦克实业发展有限公司
+  url:        https://dwo.sharepoint.com(内部通道）
 
 # Gems
 gems:
