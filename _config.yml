@@ -7,8 +7,8 @@ locale:       "en"
 
 # About/contact
 author:
-  name:       四川省成都市大麦克实业发展有限公司
-  url:        https://dwo.sharepoint.com(内部通道）
+  name:       四川省成都市大麦克实业发展有限公司（内部通道）
+  url:        https://dwo.sharepoint.com
 
 # Gems
 gems:
